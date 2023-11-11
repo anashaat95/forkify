@@ -1,7 +1,7 @@
 import * as model from './model';
 import RecipeView from './views/recipeView';
 import SearchView from './views/searchView';
-import ResultsView from './views/ResultsView';
+import ResultsView from './views/resultsView';
 import PaginationView from './views/paginationView';
 import recipeView from './views/recipeView';
 import BookmarksView from './views/bookmarksView';
